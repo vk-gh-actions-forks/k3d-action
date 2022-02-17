@@ -3,6 +3,7 @@ A GitHub Action to run lightweight ephemeral Kubernetes clusters during workflow
 Fundamental advantage of this action is a full customization of embedded k3s clusters. In addition, it provides
 multi-cluster support.
 
+
 - [Introduction](#introduction)
 - [Getting started](#getting-started)
   - [Inputs](#inputs)
